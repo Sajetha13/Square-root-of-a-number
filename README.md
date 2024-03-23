@@ -20,7 +20,8 @@ To write a program to find the square root of a number.
 Program to find the square root for the given number(newton's method) using function.
 Developed by: S.Sajetha
 RegisterNumber: 212223100049 
-
+```
+```
 def newt_method(num, num_iters=100):
     a=float(num)
     for i in range(num_iters):
